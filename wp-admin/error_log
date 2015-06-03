@@ -1,0 +1,4 @@
+[25-Feb-2015 21:57:31 UTC] PHP Warning:  Creating default object from empty value in /home/johnmcclelland/public_html/wp-admin/includes/theme.php on line 23
+[25-Feb-2015 22:52:34 UTC] PHP Warning:  Creating default object from empty value in /home/johnmcclelland/public_html/wp-admin/includes/post.php on line 382
+[25-Feb-2015 23:25:30 UTC] PHP Warning:  Creating default object from empty value in /home/johnmcclelland/public_html/wp-admin/includes/theme.php on line 23
+[25-Feb-2015 23:26:21 UTC] PHP Warning:  Creating default object from empty value in /home/johnmcclelland/public_html/wp-admin/includes/update.php on line 93
